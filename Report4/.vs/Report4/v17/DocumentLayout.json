@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st002490\\source\\repos\\Report4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6432B568-A022-4A3F-A43E-37334D0AF492}|Report4\\Report4.csproj|c:\\users\\st002490\\source\\repos\\report4\\report4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6432B568-A022-4A3F-A43E-37334D0AF492}|Report4\\Report4.csproj|solutionrelative:report4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6432B568-A022-4A3F-A43E-37334D0AF492}|Report4\\Report4.csproj|c:\\users\\st002490\\source\\repos\\report4\\report4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6432B568-A022-4A3F-A43E-37334D0AF492}|Report4\\Report4.csproj|solutionrelative:report4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\st002490\\source\\repos\\Report4\\Report4\\MyClass.cs",
+              "RelativeDocumentMoniker": "Report4\\MyClass.cs",
+              "ToolTip": "C:\\Users\\st002490\\source\\repos\\Report4\\Report4\\MyClass.cs",
+              "RelativeToolTip": "Report4\\MyClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:56:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st002490\\source\\repos\\Report4\\Report4\\Program.cs",
+              "RelativeDocumentMoniker": "Report4\\Program.cs",
+              "ToolTip": "C:\\Users\\st002490\\source\\repos\\Report4\\Report4\\Program.cs",
+              "RelativeToolTip": "Report4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:46:51.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

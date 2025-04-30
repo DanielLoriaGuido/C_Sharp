@@ -1,0 +1,14 @@
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.AssemblyInfoInputs.cache
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.AssemblyInfo.cs
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.csproj.CoreCompileInputs.cache
+C:\Users\st002490\source\repos\Report4\Report4\bin\Debug\net9.0\Report4.exe
+C:\Users\st002490\source\repos\Report4\Report4\bin\Debug\net9.0\Report4.deps.json
+C:\Users\st002490\source\repos\Report4\Report4\bin\Debug\net9.0\Report4.runtimeconfig.json
+C:\Users\st002490\source\repos\Report4\Report4\bin\Debug\net9.0\Report4.dll
+C:\Users\st002490\source\repos\Report4\Report4\bin\Debug\net9.0\Report4.pdb
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.dll
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\refint\Report4.dll
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.pdb
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\Report4.genruntimeconfig.cache
+C:\Users\st002490\source\repos\Report4\Report4\obj\Debug\net9.0\ref\Report4.dll

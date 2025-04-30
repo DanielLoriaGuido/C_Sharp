@@ -1,0 +1,14 @@
+C:\Users\st002490\source\repos\Hello\Hello\bin\Debug\net9.0\Hello.exe
+C:\Users\st002490\source\repos\Hello\Hello\bin\Debug\net9.0\Hello.deps.json
+C:\Users\st002490\source\repos\Hello\Hello\bin\Debug\net9.0\Hello.runtimeconfig.json
+C:\Users\st002490\source\repos\Hello\Hello\bin\Debug\net9.0\Hello.dll
+C:\Users\st002490\source\repos\Hello\Hello\bin\Debug\net9.0\Hello.pdb
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.AssemblyInfoInputs.cache
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.AssemblyInfo.cs
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.dll
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\refint\Hello.dll
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.pdb
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\Hello.genruntimeconfig.cache
+C:\Users\st002490\source\repos\Hello\Hello\obj\Debug\net9.0\ref\Hello.dll
